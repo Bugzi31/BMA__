@@ -49,6 +49,7 @@
     list-style: none;
     text-align: center;
 }
+
 .navbar__menu.active{
 
     position: absolute;
@@ -60,6 +61,7 @@
 
 .navbar__item {
     height: 80px;
+
 }
 
 .navbar__links {
@@ -91,6 +93,7 @@
     border-radius: 4px;
     background: rgb(161, 159, 159); 
     color: rgb(246, 243, 243);
+    
 }
 .button:hover{
     color: rgb(247, 244, 244);
@@ -608,3 +611,4 @@ body {
         background-position: right center; /* Moves the background images slightly to the right */
     }
 }
+
