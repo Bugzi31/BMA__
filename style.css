@@ -49,6 +49,14 @@
     list-style: none;
     text-align: center;
 }
+.navbar__menu.active{
+
+    position: absolute;
+    top: 20%;
+    right: 5%;
+    transform: translate(5%, 20%);
+    
+}
 
 .navbar__item {
     height: 80px;
